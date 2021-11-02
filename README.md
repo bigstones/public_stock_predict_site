@@ -3,7 +3,9 @@
 주식 예측 사이트
 
 backend
-- java
+- python
+- scikit-learn
+- tensorflow
 
 frontend
 - flutter
@@ -11,3 +13,5 @@ frontend
 database
 - mariadb
 
+api
+- 키움증권api
