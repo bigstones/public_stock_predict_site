@@ -12,6 +12,7 @@ frontend
 
 database
 - mariadb
+- redis
 
 api
 - 키움증권api
