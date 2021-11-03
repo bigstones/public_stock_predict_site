@@ -13,6 +13,7 @@ frontend
 database
 - mariadb
 - redis
+- s3
 
 api
 - 키움증권api
